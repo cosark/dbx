@@ -481,6 +481,10 @@ environment:
 When building the frontend yourself with an absolute asset base, set
 `VITE_DBX_BASE_PATH=/dbx/` before `pnpm build`.
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/dbx/)
+
 ## Getting Started
 
 ### Prerequisites
